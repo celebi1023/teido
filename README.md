@@ -1,4 +1,4 @@
-#teido
+# Teido
 
 Teido is a Japanese learning tool that visually displays the regression of unique Kanji characters in a piece of Japanese text. 
 Users can upload novels, articles, or any text in the form of an epub (ebook file) or pdf file. 
