@@ -4,6 +4,6 @@ Teido is a Japanese learning tool that visually displays the regression of uniqu
 Users can upload novels, articles, or any text in the form of an epub (ebook file) or pdf file. 
 The regression of unique kanji is categorized by the standard JLPT (Japanese Language Profficiency Test) N1 to N5 categories. 
 
-As Kanji regression is often a good indication of difficulty, which readers can better anticipate with Teido. 
+Kanji regression is often a good indication of difficulty, which readers can better anticipate with Teido. 
 
 Written with React and Flask 
